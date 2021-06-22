@@ -44,7 +44,7 @@ img {
 /* SITE STRUCTURE */
 
 header {
-    background-color: rgba(0, 102, 204, 1);
+    background-color: rgb(245, 13, 13);
     color: rgba(0, 0, 0, 0.8); 
     padding: 1em;
     display: grid;
@@ -53,12 +53,12 @@ header {
 }
 
 header a {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(167, 39, 39, 0.8);
     text-decoration: none;
 }
 
 header a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgb(94, 18, 18);
 }
 
 
@@ -88,7 +88,7 @@ main {
 
 /* HERO SECTION */
 .hero {
-    background-color: rgba(0, 102, 204, 1);
+    background-color: rgb(245, 76, 9);
     text-align: center;
     color: white;
     padding: 6em 1em;
